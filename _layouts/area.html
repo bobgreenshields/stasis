@@ -1,0 +1,136 @@
+---
+layout: default
+---
+
+<article class="post">
+
+
+  <header class="post-header">
+		{%- assign page_no_str = page.number | downcase -%}
+		{%- assign page_no = page.number | plus: 0 -%}
+    <h1 class="post-title">{{ page_no_str | append: " " | append: page.title }}</h1>
+  {%- if page.leads_to -%}
+	<div>
+		<p>Leads to 
+		{%- for lt in page.leads_to -%}
+			{%- assign leads_to_no = lt | plus: 0 -%}
+			{%- assign leads_to_str = lt | downcase -%}
+			{%- assign area_list = site.empty_array -%}
+	<!-- create an array containing all of the areas that match the leads to no -->
+			{%- for area in site.areas -%}
+				{%- assign area_no = area.number | plus: 0 -%}
+				{%- if area_no == leads_to_no -%}
+					{%- assign area_list = area_list | push: area -%}
+				{%- endif -%}
+			{%- endfor -%}
+			{%- if area_list.size > 0 -%}
+			{%- assign area = area_list.first -%}
+					<a  href="{{ area.url | relative_url }}">
+						{{ leads_to_str | append: " - " | append: area.title }}
+					</a>
+			{%- else -%}
+				<span class="warning">{{ leads_to_str }} - cannot find area file</span>
+			{%- endif -%}
+		{%- endfor -%}
+		</p>
+	</div>
+  {%- endif -%}
+  </header>
+
+
+  <div class="post-content">
+
+		<div class="gridwrapper">
+
+	{%- assign area_maps  = site.static_files | where: "area_map", true -%}
+	{%- assign maps_to_show = site.empty_array -%}
+
+			{%- for map in area_maps -%}
+				{%- assign map_no = map.basename | plus: 0 -%}
+				{%- if map_no == page_no -%}
+					{%- assign maps_to_show = maps_to_show | push: map -%}
+				{%- endif -%}
+			{%- endfor -%}
+
+		{%- if maps_to_show.size > 0 -%}
+			<div>
+					<a href="{{ maps_to_show.first.path | relative_url }}">
+						<img src={{ maps_to_show.first.path | relative_url }} class="map-thumb" alt=""/>
+					</a>
+			</div>
+		{%- endif -%}
+
+<div>
+    {{ content }}
+	
+</div>
+
+		{%  include area_items.html %}
+<div>
+	
+		<h4>Adversaries</h4>
+		<div id="tabs">
+		<ul>
+			{%- for roster in site.rosters -%}
+			<!-- <li><a href="#{{ roster.title }}">{{ roster.description }}</a></li> -->
+			<li><a href="#{{ roster.title }}">{{ roster.title }}</a></li>
+			{%- endfor -%}
+		</ul>
+
+		{%- for roster in site.rosters -%}
+		<div id="{{ roster.title }}">
+			
+			<a href="{{ roster.url | relative_url }}" title="{{ roster.title }}">{{ roster.description }}</a>
+			{%- assign adversaries = site.empty_array -%}
+	<!-- create an array containing all of the adversaries in the roster with an area that matches page_no -->
+			{%- for adversary in site.data[roster.data_file] -%}
+				{%- assign area_no = adversary.area | plus: 0 -%}
+				{%- if area_no == page_no -%}
+					{%- assign adversaries = adversaries | push: adversary -%}
+				{%- endif -%}
+			{%- endfor -%}
+	
+			{%- if adversaries.size > 0 -%}
+				<table>
+					<tr>
+					<th>Group</th>
+					{%- for title in roster.data_titles -%}
+						<th>{{ title }}</th>
+					{%- endfor -%}
+					</tr>
+					{%-for adversary in adversaries -%}
+						{% assign adv_area_no = adversary.area | plus: 0 %}
+						{%- if adv_area_no == page_no -%}
+						{%- assign mob_id = adversary.mob | downcase -%}
+						{%- assign mob = site.data.mobs[mob_id] -%}
+						{%- assign mob_name = mob_id | capitalize -%}
+						{%- assign mob_pages  = site.mobs | where: "mob", mob_id -%}
+						<tr>
+						<td>{{ mob_name }}</td>
+						{%- if mob_pages.size > 0 -%}
+								<td><a href="{{ mob_pages[0].url | relative_url }}" title="Loot: {{ mob.loot }}">{{mob.desc}}</a></td>
+						{%- else -%}
+						<td><span title="Loot: {{ mob.loot }}">{{ mob.desc }}</span></td>
+						{%- endif -%}
+						<td>{{ mob.pp }}</td>
+						<td>{{ adversary.notes }}</td>
+					{%- endif -%}
+					</tr>
+				{%- endfor -%}
+				</table>
+			{%- else -%}
+				<p>None</p>
+			{%- endif -%}
+		</div>
+		{%- endfor -%}
+		</div>
+
+</div>
+
+		</div>
+
+	{%- include player_images.html -%}
+
+  </div>
+
+</article>

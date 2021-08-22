@@ -1,0 +1,86 @@
+title: Deliverance from the depths
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  A desperate delve into a cave system to rescue captives
+  from a brutal goblin war band
+
+show_excerpts: false # set to true to show excerpts on the homepage
+exclude: [.backups]
+empty_array: []
+collections:
+  areas:
+    output: true
+  mobs:
+    output: true
+  rosters:
+    output: true
+  rules:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "assets/area_maps"
+    values:
+      area_map: true
+  -
+    scope:
+      path: "assets/large_maps"
+    values:
+      large_map: true
+  -
+    scope:
+      path: "assets/player_images"
+    values:
+      player_image: true
+  -
+    scope:
+      path: "assets/player_thumbs"
+    values:
+      player_thumb: true
+  -
+    scope:
+      path: "assets/char_sheets"
+    values:
+      char_sheet: true
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
