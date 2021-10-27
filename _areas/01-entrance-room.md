@@ -11,8 +11,9 @@ leads_to:
   - 0
 ---
 
+A strong musty smell pervades the chamber.  The walls are damp and slippery.  Water trickles out of a large opening on the north wall, pools on the floor and runs down into a drain.  A heavy grille lies in the pool.  It obviously fits the opening in the wall.
 
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
+[**Int (Investigation) check**]({{ site.baseurl }}{% link party.md %})
 
+* DC 14 The grille was pushed out from the other side.
+* DC 16 The grille shows recent scratches on the other side.

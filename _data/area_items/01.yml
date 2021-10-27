@@ -1,12 +1,12 @@
-- title: "A Opening in wall"
+- title: "Opening in wall (A)"
   desc: |-
-    A natural tunnel opens halfway up the wall at A.  Water slowly but steadily trickles from the opening, down the wall and across the floor.
+    A natural tunnel opens halfway up the wall at A.  Water slowly but steadily trickles from the opening, down the wall and across the floor.  The opening is about 3 ft. across but the tunnel opens out shortly after the opening.
 
-- title: "B Grille"
+- title: "Grille (B)"
   desc: |-
-    A grille at B lies on the floor.  Old, rusted and slightly buckled it obviously used to cover the opening at A.
+      A grille at B lies on the floor.  Old, rusted and slightly buckled it obviously used to cover the opening at A.  Investigation of the grille shows that it was pushed out from the tunnel side.
 
-- title: "C Drain"
+- title: "Drain (C)"
   desc: |-
     The water from A spreads out across the floor and runs down into a large drain covered by a heavy grille.
 
