@@ -10,8 +10,8 @@ leads_to:
   - 14
 ---
 
+The tunnel is obviously natural.  A 5ft.
 
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
+* DC 16 Something is moving in the water above the step
 
