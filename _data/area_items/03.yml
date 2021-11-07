@@ -2,13 +2,17 @@
   desc: |-
     The wall at A has collapsed and is surrounded by piles of rubble.  A tunnel is seen beyond.
 
+- title: "Scorched chitin"
+  desc: |-
+    A pile of sharp shards of shell (chitin) scorched and burnt
+
 - title: "Stones protruding from the wall"
   desc: |-
     Four stones protrude from the wall.  On closer examination they are of a different kind of stone than the walls and have runes carved onto the front face.
 
 - title: "Crude statue of a man (construct)"
   desc: |-
-    What appears to be a crude statue of a man in the centre of the room is in fact a construct that will attempt grapple anyone that comes within its area of operation, bounded by the stones in the wall.
+    What appears to be a crude statue of a man in the centre of the room is in fact a construct that will attempt grapple anyone that comes within its area of operation, bounded by the stones in the wall.  It has unusually long arms that end in hands that have 2 long multijointed fingers and 2 opposed thumbs
 
 - title: "Two strange mechanisms"
   desc: |-
