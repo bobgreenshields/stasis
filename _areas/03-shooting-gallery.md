@@ -11,8 +11,16 @@ leads_to:
   - 16
 ---
 
-
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
+* DC 15 the four unusual stones embedded in the walls
+* DC 19 the glowing crystals at the back of the mechanisms, the crystals at the back of one mech. are flickering
 
+### Lightning guns ###
+
+A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from the mechanism.  Each creature in the line must make a DC 11 Dexterity saving throw. A creature takes 3d6 lightning damage on a failed save, or half as much damage on a successful one.
+
+The gun with the flickering crystals only has a 4-6 on a d6 chance of firing.  Guns will choose different targets if more than one is presented.
+
+### Construct ###
+
+The construct has a move of 30 ft. and is slightly larger than a human.  It will attempt to close with an interloper and then grapple it.  It has an Athletics +5
