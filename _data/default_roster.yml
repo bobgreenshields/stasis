@@ -1,3 +1,7 @@
+- mob: a
+  area: 14
+  notes: "hidden from area 13"
+
 - mob: construct
   area: 3
   notes: "Initially stationary"

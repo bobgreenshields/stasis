@@ -1,3 +1,8 @@
+a:
+  pp: "10"
+  loot: ""
+  desc: "1 Kruthik Hatchling"
+
 construct:
   pp: "12"
   loot: ""
