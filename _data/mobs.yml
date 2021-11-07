@@ -3,6 +3,11 @@ a:
   loot: ""
   desc: "1 Kruthik Hatchling"
 
+b:
+  pp: "10"
+  loot: ""
+  desc: "2 Kruthik Hatchlings"
+
 construct:
   pp: "12"
   loot: ""

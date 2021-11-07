@@ -2,6 +2,10 @@
   area: 14
   notes: "hidden from area 13"
 
+- mob: b
+  area: 15
+  notes: "In the lower area of 15"
+
 - mob: construct
   area: 3
   notes: "Initially stationary"
