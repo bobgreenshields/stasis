@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stasis cell
+title: Cell loot
 permalink: /stasis-cell-loot/
 ---
 ## First Room ##
@@ -13,11 +13,15 @@ Wand of webs
 
 | Roll | Description | Loot |
 |:--------|:--------|:--------|
-| 1 | Warrior 1 | Magic thing |
-| 2 | Healer |  Keoghtom's Ointment |
-| 3 | Warrior 2 | Magic thing |
-| 4 | Egg chamber | Magic thing |
+| 1 | Egg chamber | Magic thing |
+| 2 | Warrior 1 | Magic thing |
+| 3 | Healer |  Keoghtom's Ointment |
+| 4 | Warrior 2 | Potion of healing |
 
+### Egg Chamber ###
 ### Warrior 1 ###
 
 A skeleton lies amongst rusty fragments of armour and the remains of a sword 
+
+### Warrior 2 ###
+### Healer ###
