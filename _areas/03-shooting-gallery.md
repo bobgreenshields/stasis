@@ -8,7 +8,7 @@ player_images:
 leads_to:
   - 2
   - 4
-  - 16
+  - 11
 ---
 
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
