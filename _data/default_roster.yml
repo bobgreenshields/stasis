@@ -1,9 +1,9 @@
 - mob: a
-  area: 14
+  area: 9
   notes: "hidden from area 13"
 
 - mob: b
-  area: 15
+  area: 10
   notes: "In the lower area of 15"
 
 - mob: c
