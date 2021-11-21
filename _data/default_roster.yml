@@ -18,3 +18,11 @@
   area: 6
   notes: "One seen carrying a broken egg"
 
+- mob: e
+  area: 11
+  notes: "From the small tunnel at B"
+
+- mob: f
+  area: 11
+  notes: "In the large opening at C"
+

@@ -23,3 +23,13 @@ d:
   loot: "None"
   desc: "Kruthiks (A + 2Y)"
 
+e:
+  pp: "10"
+  loot: "None"
+  desc: "2 Kruthik hatchlings"
+
+f:
+  pp: "11"
+  loot: "None"
+  desc: "An adult Kruthik"
+
