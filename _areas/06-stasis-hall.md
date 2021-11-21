@@ -16,6 +16,8 @@ leads_to:
   - 15
 ---
 
+This hall leads to several cells on the upper level.
+
 
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
 * DC 18 something hidden
