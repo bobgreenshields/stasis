@@ -7,7 +7,7 @@ categories: area
 player_images:
 leads_to:
   - 4
-  - 16
+  - 11
 ---
 
 There's another energised power crystal in this room somewhere.
