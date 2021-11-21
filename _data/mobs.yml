@@ -1,11 +1,11 @@
 a:
   pp: "10"
-  loot: ""
+  loot: "None"
   desc: "1 Kruthik Hatchling"
 
 b:
   pp: "10"
-  loot: ""
+  loot: "None"
   desc: "2 Kruthik Hatchlings"
 
 c:
@@ -15,7 +15,7 @@ c:
 
 construct:
   pp: "12"
-  loot: ""
+  loot: "None"
   desc: "A stone construct that looks like a crude statue"
 
 d:
