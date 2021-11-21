@@ -9,7 +9,7 @@ leads_to:
   - 6
 ---
 
-Each cell is the same holding a stasis chamber.
+Each cell is the same, holding a stasis chamber.
 
 On entry consult [cell loot]({{ site.baseurl }}{% link stasis-cell-loot.md %}) to check the details of this particular cell.
 
