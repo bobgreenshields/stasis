@@ -7,6 +7,8 @@ permalink: /stasis-cell-loot/
 
 | Roll | Description | Loot |
 |:--------|:--------|:--------|
+| First | Cleric | Wand of webs |
+| Second | Wizard | Ring of Meteors |
 | 1 | Egg chamber | Magic thing |
 | 2 | Warrior 1 | Javelins of lightning |
 | 3 | Warrior 2 | Black Net  |
@@ -15,6 +17,8 @@ permalink: /stasis-cell-loot/
 [Egg chamber](#egg-chamber) - [Warrior 1](#warrior-1) - [Warrior 2](#warrior-2) - [Healer](#healer) 
 
 ### First Room ###
+
+A skeleton lies amongst rusty fragments of armour, what remains of a mace and fragments of religious symbols.
 
 * Wand of webs: No attunement, can be used by all.  Cast [web](https://www.dndbeyond.com/spells/melfs-minute-meteors).  Roll a d8 for each use, on a 1 the spell fails and the wand is spent.
 
@@ -38,7 +42,7 @@ A skeleton lies amongst rusty fragments of armour and the remains of a sword
 
 ### Warrior 2 ###
 
-* Evards black net: a net which when landing after being thrown casts [Black tentacles](https://www.dndbeyond.com/spells/black-tentacles) but with 2d6 damage.  Roll a d6 each time on a 1 the spell fails and the net is spent.
+* Evards black net: a fine metal net which when landing after being thrown casts [Black tentacles](https://www.dndbeyond.com/spells/black-tentacles) but with 2d6 damage.  Roll a d6 each time on a 1 the spell fails and the net is spent.
 
 ### Healer ###
 
