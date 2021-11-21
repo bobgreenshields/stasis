@@ -24,7 +24,7 @@ A skeleton lies amongst rusty fragments of armour, what remains of a mace and fr
 
 ### Second Room ###
 
-* Ring of meteors: cast [Melf's Minute Meteors.](https://www.dndbeyond.com/spells/melfs-minute-meteors)  Roll a d6, each time on a 1 the spell fails and the ring is spent.
+* Ring of meteors: cast [Melf's Minute Meteors.](https://www.dndbeyond.com/spells/melfs-minute-meteors)  Roll a d6 for each use, on a 1 the spell fails and the ring is spent.
 
 ### Egg Chamber ###
 
@@ -42,7 +42,7 @@ A skeleton lies amongst rusty fragments of armour and the remains of a sword
 
 ### Warrior 2 ###
 
-* Evards black net: a fine metal net which when landing after being thrown casts [Black tentacles](https://www.dndbeyond.com/spells/black-tentacles) but with 2d6 damage.  Roll a d6, each time on a 1 the spell fails and the net is spent.
+* Evards black net: a fine metal net which when landing after being thrown casts [Black tentacles](https://www.dndbeyond.com/spells/black-tentacles) but with 2d6 damage.  Roll a d6 for each use, on a 1 the spell fails and the net is spent.
 
 ### Healer ###
 
