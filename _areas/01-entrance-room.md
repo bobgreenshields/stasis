@@ -11,7 +11,7 @@ leads_to:
   - 0
 ---
 
-A strong musty smell pervades the chamber.  The walls are damp and slippery.  Water trickles out of a large opening on the north wall, pools on the floor and runs down into a drain.  A heavy grille lies in the pool.  It obviously fits the opening in the wall.  This room has been used a haven and shelter for different generations when the village was under attack.  Scratched graffiti on the walls marks off the days and short prays are crudely carved into the stones.  Amongst these are other marks, initials, hearts and those left by youngsters looking for a little privacy.
+A strong musty smell pervades the chamber.  The walls are damp and slippery.  Water trickles out of a large opening on the north wall, pools on the floor and runs down into a drain.  A heavy grille lies in the pool.  It obviously fits the opening in the wall.  This room has been used a haven and shelter for different generations when the village was under attack.  Scratched graffiti on the walls marks off the days and short prayers are crudely carved into the stones.  Amongst these are other marks, initials and hearts left by youngsters looking for a little privacy.
 
 [**Int (Investigation) check**]({{ site.baseurl }}{% link party.md %})
 
