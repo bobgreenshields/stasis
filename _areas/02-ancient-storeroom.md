@@ -8,7 +8,7 @@ player_images:
 leads_to:
   - 1
   - 3
-  - 16
+  - 11
 ---
 
 What looks to have been used as a storeroom long ago.  Very little is left of the crates and barrels save the rusting braces used to hold them together.
