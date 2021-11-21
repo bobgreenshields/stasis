@@ -24,13 +24,13 @@ A skeleton lies amongst rusty fragments of armour, what remains of a mace and fr
 
 ### Second Room ###
 
-* Ring of meteors: cast [Melf's Minute Meteors.](https://www.dndbeyond.com/spells/melfs-minute-meteors)  Roll a d6 each time on a 1 the spell fails and the ring is spent.
+* Ring of meteors: cast [Melf's Minute Meteors.](https://www.dndbeyond.com/spells/melfs-minute-meteors)  Roll a d6, each time on a 1 the spell fails and the ring is spent.
 
 ### Egg Chamber ###
 
 This cell is full of a sticky mass of white oval eggs (30-40cm long).  At least forty of them covering the floor of the cell.  Central to the other eggs is a larger one (twice as big).  There is movement within the leathery white skin of this one.
 
-On picking up the egg for the first time the pc will experience multiple, rapid shocking visions from an alien perspective.  Make a DC10 Wis sv. or take 1d4 psychic damage.
+On picking up the egg for the first time the pc will experience multiple, rapid shocking visions from an alien perspective.  Make a DC10 Wis sv. or take 1d4 psychic damage and be stunned for one round.
 
 Whilst the sarcophagus in this room is covered in goo it still contains a skeletal figure.
 
@@ -42,7 +42,7 @@ A skeleton lies amongst rusty fragments of armour and the remains of a sword
 
 ### Warrior 2 ###
 
-* Evards black net: a fine metal net which when landing after being thrown casts [Black tentacles](https://www.dndbeyond.com/spells/black-tentacles) but with 2d6 damage.  Roll a d6 each time on a 1 the spell fails and the net is spent.
+* Evards black net: a fine metal net which when landing after being thrown casts [Black tentacles](https://www.dndbeyond.com/spells/black-tentacles) but with 2d6 damage.  Roll a d6, each time on a 1 the spell fails and the net is spent.
 
 ### Healer ###
 
