@@ -8,7 +8,7 @@ player_images:
 leads_to:
   - 4
   - 7
-  - 15
+  - 10
 ---
 
 This hall leads to several cells on the upper level.

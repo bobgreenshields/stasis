@@ -1,13 +1,13 @@
 ---
 layout: area
 title: "The second step"
-number: 15
+number: 10
 description: "Another step up the river"
 categories: area
 player_images:
 leads_to:
   - 6
-  - 14
+  - 9
 ---
 
 

@@ -1,13 +1,13 @@
 ---
 layout: area
 title: "Fissure"
-number: 13
+number: 8
 description: "A natural opening"
 categories: area
 player_images:
 leads_to:
   - 1
-  - 14
+  - 9
 ---
 
 The tunnel is obviously natural.  A 5ft.

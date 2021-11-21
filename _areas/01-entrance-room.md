@@ -7,7 +7,7 @@ categories: area
 player_images:
 leads_to:
   - 2
-  - 13
+  - 8
   - 0
 ---
 
