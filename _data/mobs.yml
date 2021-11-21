@@ -8,8 +8,18 @@ b:
   loot: ""
   desc: "2 Kruthik Hatchlings"
 
+c:
+  pp: "11"
+  loot: "None"
+  desc: "Kruthiks (A + 2Y)"
+
 construct:
   pp: "12"
   loot: ""
   desc: "A stone construct that looks like a crude statue"
+
+d:
+  pp: "11"
+  loot: "None"
+  desc: "Kruthiks (A + 2Y)"
 

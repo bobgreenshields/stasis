@@ -6,7 +6,15 @@
   area: 15
   notes: "In the lower area of 15"
 
+- mob: c
+  area: 5
+  notes: "Coming out of the tunnels"
+
 - mob: construct
   area: 3
   notes: "Initially stationary"
+
+- mob: d
+  area: 6
+  notes: "One seen carrying a broken egg"
 
