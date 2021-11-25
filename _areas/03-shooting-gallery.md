@@ -15,5 +15,6 @@ leads_to:
 * DC 15 the four unusual stones embedded in the walls
 * DC 19 the glowing crystals at the back of the mechanisms, the crystals at the back of one mech. are flickering
 
-### [Lightning guns ]({{ site.baseurl }}{% link lightning-guns.md %}) ###
-Start tracking the pcs as soon as they enter but do not [fire]({{ site.baseurl }}{% link lightning-guns.md %}#effect) until they are 10 ft in.
+* [Lightning guns ]({{ site.baseurl }}{% link lightning-guns.md %}) start tracking the pcs as soon as they enter but do not [fire]({{ site.baseurl }}{% link lightning-guns.md %}#effect) until they are 10 ft in.
+* the statue will begin to move towards the pcs as they approach the bounded area
+* but will not move out of the area bounded by the stones in the walls

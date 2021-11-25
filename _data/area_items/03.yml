@@ -12,7 +12,7 @@
 
 - title: "Stones protruding from the wall (B)"
   desc: |-
-    Four stones protrude from the wall.  On closer examination they are of a different kind of stone than the walls and have runes carved onto the front face.
+    Four stones protrude from the wall.  On closer examination they are of a different kind of stone than the walls and have runes carved onto the front face.  The construct will not move beyond the rectangle defined by these stones and will not move within 5 ft of them.  Int (Arc) DC 12 they are some kind of ward.
 
 - title: "Crude statue of a man (construct) (C)"
   desc: |-
