@@ -17,3 +17,34 @@ A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out fr
 
 ### Power crystals ###
 Energised power crystals will explode if hit with Radiant damage.  They explode in a 20 ft radius doing 5d6 radiant damage to anyone in the area. If checked using [**Int (Arcana) check**]({{ site.baseurl }}{% link party.md %}) DC 10 this will become apparent.
+
+### Spawning ###
+
+Once the alarm has been raised roll a d4 Doom Timer.  Once this has expired roll the dice shown below each round
+
+| Location | Roll | Notes |
+|:--------|:--------|:--------|
+| Corridor | 2d6 | Area 4 |
+| Tunnel E | 1d6 | Comes in at walkway level |
+| Tunnel F | 1d10 | Comes in at ceiling |
+
+For each 1 on the dice roll on the spawn table.  The indicated mob will arrive at the location in question at the start of the round and act at the end of the initiative order.
+
+| Roll | Normal | Tunnel F |
+|:--------|:--------|:--------|
+| 1 | 2Y | 1Y |
+| 2 | 2Y | 1Y |
+| 3 | 1A | 2Y |
+| 4 | 1A 1Y | 2Y |
+| 5 | 1A 2Y | 2Y |
+| 6 | 2A | 3Y |
+
+### Sentry Guns ###
+
+If sentry guns and possibly the construct are placed in the long corridor the Kruthik spawning from this location will already be injured when they arrive.  If there are two guns and more than one Kruthik then two Kruthik will be injured.  The partially active sentry gun can be upgraded to fully active by replacing the spent power crystal with an energised one.
+
+| In corridor | Effect |
+|:--------|:--------|
+| Active sentry gun | 2d6 damage |
+| Partially active sentry gun | 1d6 damage |
+| Construct | roll twice on best gun |

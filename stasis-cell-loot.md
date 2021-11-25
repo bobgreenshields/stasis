@@ -9,12 +9,15 @@ permalink: /stasis-cell-loot/
 |:--------|:--------|:--------|
 | First | Cleric | Wand of webs |
 | Second | Wizard | Ring of Meteors |
-| 1 | Egg chamber | Magic thing |
+| 1 | Egg chamber | Darkshard necklace |
 | 2 | Warrior 1 | Javelins of lightning |
 | 3 | Warrior 2 | Black Net  |
 | 4 | Healer | Keoghtom's Ointment |
 
-[Egg chamber](#egg-chamber) - [Warrior 1](#warrior-1) - [Warrior 2](#warrior-2) - [Healer](#healer) 
+* [Egg chamber](#egg-chamber)
+* [Warrior 1](#warrior-1)
+* [Warrior 2](#warrior-2)
+* [Healer](#healer) 
 
 ### First Room ###
 
@@ -33,6 +36,8 @@ This cell is full of a sticky mass of white oval eggs (30-40cm long).  At least 
 On picking up the egg for the first time the pc will experience multiple, rapid shocking visions from an alien perspective.  Make a DC10 Wis sv. or take 1d4 psychic damage and be stunned for one round.
 
 Whilst the sarcophagus in this room is covered in goo it still contains a skeletal figure.
+
+* Darkshard neckace: cast a two ray Eldritch Blast as a bonus action 1d10 force and push back up to 10 ft.  Roll a d8 for each use, on a 1 the spell fails and the necklace is spent.
 
 ### Warrior 1 ###
 
