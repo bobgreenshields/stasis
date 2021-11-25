@@ -1,10 +1,10 @@
 - title: "Toppled statue on dias"
   desc: |-
-    Atop the raised dias is a semi-toppled statue of a noble woman.  Beatifully carved, she looks upwards with her right arm outstretched (Soviet style).  Her right hand has broken off at the wrist.  Her belt buckle and neck band are studded with jewels.  They can easily be prised off with a knife.  The ones at the belt (GP 300) are simple but to get to the ones at the neck (GP 600) will require climbing up the unstable statue.  Without the statue being supported it's a Dex Check DC 17 to harvest the gems without the statue crashing down and alerting nearby Kruthiks.
+    Atop the raised dias is a semi-toppled statue of a noble woman.  Beatifully carved, she looks upwards with her right arm outstretched (Soviet style).  Her right hand has broken off at the wrist.  Her belt buckle and neck band are studded with jewels.  They can easily be prised off with a knife.  The ones at the belt (GP 300) are simple to access but to get to the ones at the neck (GP 600) will require climbing up the unstable statue.  Without the statue being supported it's a Dex Check DC 17 to harvest the gems without the statue crashing down and alerting nearby Kruthiks.
 
 - title: "Tunnels"
   desc: |-
-    Several tunnels join this area
+    Several tunnels join this area.  Wis (Per) DC 10 clicking and chattering is occasionally heard from tunnels B and C.
 
 - title: "Piles of rocks and rubble"
   desc: |-
@@ -12,5 +12,5 @@
 
 - title: "Broken hand from the statue"
   desc: |-
-    The broken hand from the statue lies upon a pile of rubble.  Int (Inv) DC 15 the shape of the hand looks more like it was holding something rather than pointing.  Searching the pile Wis (Per) DC 12 an energised power crystal.
+    The broken hand from the statue lies upon a pile of rubble.  The ring on her finger has a jewel (GP 50).
 
