@@ -11,4 +11,4 @@ leads_to:
 ---
 
 
-The hatchling will attack immediately but if injured will flee up the step to area 15.
+The hatchling will attack immediately but if injured will flee up the step to area 10.
