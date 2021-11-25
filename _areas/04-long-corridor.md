@@ -11,9 +11,4 @@ leads_to:
   - 6
   - 11
 ---
-
-
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
-
+A long corridor with buttresses that can provide up to 3/4 cover.
