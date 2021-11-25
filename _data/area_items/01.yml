@@ -1,10 +1,18 @@
+- title: "Graffitti scratched on walls"
+  desc: |-
+    Scratched graffiti on the walls marking off the days and short prayers are crudely carved into the stones.  Amongst these are other marks, initials and hearts left by youngsters looking for a little privacy.
+
+- title: "Piles of dirt and bones on floor"
+  desc: |-
+    The floor has several piles of bones mixed in with dirt, stones and scraps of fur **Int (Inv) check** DC 14 The bones are relatively recent and belong to several different species all mixed together  **Wis (Per) check** DC 16 In amongst one of the piles is 15cm long  yellowy green crystal.  It glows gently.  It's an energised power cystal.
+
 - title: "Opening in wall (A)"
   desc: |-
-    A natural tunnel opens halfway up the wall at A.  Water slowly but steadily trickles from the opening, down the wall and across the floor.  The opening is about 3 ft. across but the tunnel opens out shortly after the opening.
+    A natural tunnel opens halfway up the wall at A.  Water slowly but steadily trickles from the opening, down the wall and across the floor.  The opening is about 3 ft. across but the tunnel opens out shortly after the opening.  **Int (Inv) check** DC 18 In the opening at (A) a shard of chitin can be found in a crack along with scratch marks in the rock.
 
 - title: "Grille (B)"
   desc: |-
-      A grille at B lies on the floor.  Old, rusted and slightly buckled it obviously used to cover the opening at A.  Investigation of the grille shows that it was pushed out from the tunnel side.
+      A grille at B lies on the floor.  Old, rusted and slightly buckled it obviously used to cover the opening at A.  Investigation of the grille shows that it was pushed out from the tunnel side.  **Int (Inv) check** DC 14 The grille was pushed out from the other side DC 16 The grille shows recent scratches on the other side
 
 - title: "Drain (C)"
   desc: |-
