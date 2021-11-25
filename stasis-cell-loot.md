@@ -23,11 +23,11 @@ permalink: /stasis-cell-loot/
 
 A skeleton lies amongst rusty fragments of armour, what remains of a mace and fragments of religious symbols.
 
-* Wand of webs: No attunement, can be used by all.  Cast [web](https://www.dndbeyond.com/spells/melfs-minute-meteors).  Roll a d8 for each use, on a 1 the spell fails and the wand is spent.
+* Wand of webs: No attunement, can be used by all.  Cast [web](https://www.dndbeyond.com/spells/web).  Roll a d8 for each use, on a 1 the spell fails and the wand is spent.  Save DC 13
 
 ### Second Room ###
 
-* Ring of meteors: cast [Melf's Minute Meteors.](https://www.dndbeyond.com/spells/melfs-minute-meteors)  Roll a d6 for each use, on a 1 the spell fails and the ring is spent.
+* Ring of meteors: cast [Melf's Minute Meteors.](https://www.dndbeyond.com/spells/melfs-minute-meteors)  Roll a d6 for each use, on a 1 the spell fails and the ring is spent.  Save DC 14
 
 ### Egg Chamber ###
 
@@ -37,7 +37,7 @@ On picking up the egg for the first time the pc will experience multiple, rapid 
 
 Whilst the sarcophagus in this room is covered in goo it still contains a skeletal figure.
 
-* Darkshard neckace: cast a two ray Eldritch Blast as a bonus action 1d10 force and push back up to 10 ft.  Roll a d8 for each use, on a 1 the spell fails and the necklace is spent.
+* Darkshard neckace: cast a two ray [Eldritch Blast](https://www.dndbeyond.com/spells/eldritch-blast) as a bonus action 1d10 force and push back up to 10 ft.  Roll a d6 for each use, on a 1 the spell fails and the necklace is spent.  Spell Att +5
 
 ### Warrior 1 ###
 
@@ -47,7 +47,7 @@ A skeleton lies amongst rusty fragments of armour and the remains of a sword
 
 ### Warrior 2 ###
 
-* Evards black net: a fine metal net which when landing after being thrown casts [Black tentacles](https://www.DNDBeyond.COM/spells/black-tentacles) but with 2d6 damage.  Roll a d6 for each use, on a 1 the spell fails and the net is spent.
+* Evards black net: a fine metal net which when landing after being thrown casts [Black tentacles](https://www.DNDBeyond.COM/spells/black-tentacles) but with 2d6 damage.  Roll a d6 for each use, on a 1 the spell fails and the net is spent.  Save DC 14
 
 ### Healer ###
 
