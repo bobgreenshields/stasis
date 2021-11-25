@@ -16,7 +16,4 @@ leads_to:
 * DC 19 the glowing crystals at the back of the mechanisms, the crystals at the back of one mech. are flickering
 
 ### [Lightning guns ]({{ site.baseurl }}{% link lightning-guns.md %}) ###
-Start tracking the pcs as soon as they enter but do not fire until they are 10 ft in.
-### Construct ###
-
-The construct has a move of 30 ft. and is slightly larger than a human.  It will attempt to close with an interloper and then grapple it.  It has an Athletics +5
+Start tracking the pcs as soon as they enter but do not [fire]({{ site.baseurl }}{% link lightning-guns.md %}#effect) until they are 10 ft in.

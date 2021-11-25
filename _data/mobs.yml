@@ -16,7 +16,7 @@ c:
 construct:
   pp: "12"
   loot: "None"
-  desc: "A stone construct that looks like a crude statue"
+  desc: "A metal construct that looks like a crude statue"
 
 d:
   pp: "11"
