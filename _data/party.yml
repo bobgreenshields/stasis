@@ -1,9 +1,9 @@
 ---
 names:
-- Aeril
+- Aerik
 - Eladrilas
 - Liu
-- Yoge
+- Yorge
 rows:
 - category: Player
   values:
@@ -11,52 +11,52 @@ rows:
   - William
   - Mark
   - Luca
-- category: AC
+- category: AC/DS
   values:
-  - '15'
-  - '15'
-  - '16'
-  - '14'
+  - '15/7'
+  - '17/5'
+  - '16/6'
+  - '16/6'
 - category: PP
   values:
   - '11'
-  - '13'
+  - '15'
   - '12'
   - '13'
-- category: Str
+- category: Str/Athl
   values:
   - "-1"
-  - "+1"
-  - "+3/+5"
+  - "+1/+3"
+  - "+4/+6/+6"
   - "-1"
-- category: Dex/Init
+- category: Dex/Acr
   values:
   - "+2"
   - "+2"
   - "+2"
-  - "+3/+5"
+  - "+4/+6/+6"
 - category: Con
   values:
-  - "+2"
+  - "+2/+4"
   - "+2"
   - "+2/+4"
   - "+1"
-- category: Int
+- category: Int/Inv
   values:
   - "0"
   - "-1"
-  - "+1"
-  - "+3/+5"
-- category: Wis
+  - "+1/+3"
+  - "+3/+5/+5"
+- category: Wis/Per
   values:
   - "+1"
-  - "+3/+5"
-  - "+0"
-  - "+1"
+  - "+3/+5/+5"
+  - "+0/+2"
+  - "+1/+3"
 - category: Cha
   values:
-  - "+3/+6"
-  - "+0"
+  - "+3/+5"
+  - "+0/+2"
   - "-1"
   - "+0"
 - category: Prof
@@ -76,7 +76,7 @@ rows:
   - "+2"
   - "+2"
   - "+2"
-  - "+7"
+  - "+8"
 - category: Spell DC
   values:
   - "13"
