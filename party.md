@@ -4,4 +4,4 @@ title: Party
 permalink: /party/
 ---
 
-Hello
+Char / Skill / Save
